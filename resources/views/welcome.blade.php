@@ -307,8 +307,7 @@
     <section id="section-team" class="page-section topmargin-lg">
 
         <div class="heading-block center">
-            <h2>Our Team</h2>
-            <span>People who have contributed enormously to our Company.</span>
+            <h2>Thành viên</h2>
         </div>
 
         <div class="container clearfix">
@@ -424,7 +423,7 @@
             <div class="clear"></div>
 
             <div class="fancy-title title-border title-center topmargin-sm">
-                <h4>Skills we are Perfect in</h4>
+                <h4>Kỹ năng</h4>
             </div>
 
             <div class="col_one_fourth nobottommargin center">
@@ -468,7 +467,7 @@
     <section id="section-services" class="page-section topmargin-lg">
 
         <div class="heading-block center bottommargin-lg">
-            <h2>Services</h2>
+            <h2>Dịch vụ</h2>
             <span>List of some features included in Canvas.</span>
         </div>
 

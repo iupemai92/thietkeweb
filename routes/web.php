@@ -14,3 +14,14 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+Route::prefix('kho-giao-dien')->group(function () {
+    Route::prefix('xe-hoi')->group(function () {
+        Route::get('/', function () {
+            return view('theme.car.index');
+        });
+        Route::get('/chi-tiet', function () {
+            return view('theme.car.detail');
+        });
+    });
+});

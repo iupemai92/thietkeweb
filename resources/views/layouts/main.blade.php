@@ -9,13 +9,13 @@
     <title>@yield('titlePage')</title>
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link rel="stylesheet" href="{{ asset('/css/one-page/bootstrap.css') }}" type="text/css" />
-    <link rel="stylesheet" href="{{ asset('/css/one-page/style.css') }}" type="text/css" />
-    <link rel="stylesheet" href="{{ asset('/css/one-page/swiper.css') }}" type="text/css" />
-    <link rel="stylesheet" href="{{ asset('/css/one-page/dark.css') }}" type="text/css" />
-    <link rel="stylesheet" href="{{ asset('/css/one-page/font-icons.css') }}" type="text/css" />
-    <link rel="stylesheet" href="{{ asset('/css/one-page/animate.css') }}" type="text/css" />
-    <link rel="stylesheet" href="{{ asset('/css/one-page/magnific-popup.css') }}" type="text/css" />
+    <link rel="stylesheet" href="{{ asset('/css/bootstrap.css') }}" type="text/css" />
+    <link rel="stylesheet" href="{{ asset('/css/style.css') }}" type="text/css" />
+    <link rel="stylesheet" href="{{ asset('/css/swiper.css') }}" type="text/css" />
+    <link rel="stylesheet" href="{{ asset('/css/dark.css') }}" type="text/css" />
+    <link rel="stylesheet" href="{{ asset('/css/font-icons.css') }}" type="text/css" />
+    <link rel="stylesheet" href="{{ asset('/css/animate.css') }}" type="text/css" />
+    <link rel="stylesheet" href="{{ asset('/css/magnific-popup.css') }}" type="text/css" />
 
     <link rel="stylesheet" href="{{ asset('/css/one-page/responsive.css') }}" type="text/css" />
     @yield('css')
@@ -40,15 +40,15 @@
     </div>
 
 
-    <script src="{{ asset('/js/one-page/jquery.js') }}"></script>
-    <script src="{{ asset('/js/one-page/plugins.js') }}"></script>
+    <script src="{{ asset('/js/jquery.js') }}"></script>
+    <script src="{{ asset('/js/plugins.js') }}"></script>
 
     <!-- Footer Scripts
     ============================================= -->
-    <script src="{{ asset('/js/one-page/functions.js') }}"></script>
+    <script src="{{ asset('/js/functions.js') }}"></script>
 
     <script src="https://maps.google.com/maps/api/js?key=YOUR_API_KEY"></script>
-    <script src="{{ asset('/js/one-page/jquery.gmap.js') }}"></script>
+    <script src="{{ asset('/js/jquery.gmap.js') }}"></script>
     <script>
 
         jQuery('#google-map').gMap({

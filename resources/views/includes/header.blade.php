@@ -20,15 +20,15 @@
             <nav id="primary-menu">
 
                 <ul class="one-page-menu" data-easing="easeInOutExpo" data-speed="1500">
-                    <li><a href="#" data-href="#home"><div>Home</div></a></li>
-                    <li><a href="#" data-href="#section-about"><div>About</div></a></li>
-                    <li><a href="#" data-href="#section-work"><div>Work</div></a></li>
-                    <li><a href="#" data-href="#section-team"><div>Team</div></a></li>
-                    <li><a href="#" data-href="#section-services"><div>Services</div></a></li>
-                    <li><a href="#" data-href="#section-pricing"><div>Pricing</div></a></li>
-                    <li><a href="blog.html"><div>Blog</div></a></li>
-                    <li><a href="#" data-href="#section-testimonials" data-offset="60"><div>Testimonials</div></a></li>
-                    <li><a href="#" data-href="#section-contact"><div>Contact</div></a></li>
+                    <li><a href="#" data-href="#home"><div>Trang chủ</div></a></li>
+                    <li><a href="#" data-href="#section-about"><div>Về chúng tôi</div></a></li>
+                    <li><a href="#" data-href="#section-work"><div>Lĩnh vực</div></a></li>
+                    <li><a href="#" data-href="#section-team"><div>Thành viên</div></a></li>
+                    <li><a href="#" data-href="#section-services"><div>Dịch vụ</div></a></li>
+                    <li><a href="#" data-href="#section-pricing"><div>Bảng giá</div></a></li>
+                    <li><a href="blog.html"><div>Chia sẻ</div></a></li>
+                    <li><a href="#" data-href="#section-testimonials" data-offset="60"><div>Đánh giá</div></a></li>
+                    <li><a href="#" data-href="#section-contact"><div>Liên hệ</div></a></li>
                 </ul>
 
                 <!-- Top Search
